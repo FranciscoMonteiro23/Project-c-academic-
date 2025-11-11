@@ -1,36 +1,36 @@
-# 🥫 Banco Alimentar – Gestão de Voluntários
+# 🥫 Food Bank – Volunteer Management System
 
-## 📘 Descrição do Projeto
+## 📘 Project Description
 
-Este projeto foi desenvolvido no âmbito da unidade curricular **Programação Web – Servidor**, e tem como objetivo criar uma **aplicação web de gestão de voluntários** para o **Banco Alimentar Contra a Fome**.
+This project was developed as part of the **Web Programming – Server-Side** course and aims to create a **web application for managing volunteers** for the **Food Bank Against Hunger** initiative.
 
-A aplicação permite gerir de forma eficiente os **voluntários**, associando-os a **hospitais** ou **locais de recolha**, bem como visualizar, editar e remover registos.  
-O sistema foi construído utilizando **ASP.NET Core Razor Pages** e **Entity Framework Core**, tirando partido do padrão **CRUD** (Create, Read, Update, Delete).
-
----
-
-## 🎯 Objetivos
-
-- Criar uma aplicação funcional em **ASP.NET Core Razor Pages**.  
-- Implementar **operações CRUD** para a gestão de voluntários.  
-- Utilizar uma **base de dados SQLite** integrada com **Entity Framework Core**.  
-- Desenvolver uma **interface simples e intuitiva** com o uso de **Bootstrap**.  
-- Demonstrar competências na construção de **aplicações web do lado do servidor**.
+The application allows efficient management of **volunteers**, assigning them to **hospitals** or **collection centers**, as well as viewing, editing, and removing records.  
+It was built using **ASP.NET Core Razor Pages** and **Entity Framework Core**, following the **CRUD** (Create, Read, Update, Delete) model.
 
 ---
 
-## 🧩 Funcionalidades Principais
+## 🎯 Objectives
 
-- ✅ Listagem de todos os voluntários registados.  
-- ➕ Criação de novos voluntários.  
-- ✏️ Edição e atualização de dados existentes.  
-- ❌ Remoção de voluntários.  
-- 🔍 Filtro e pesquisa por **localidade**.  
-- 🏥 Associação dos voluntários a **hospitais**.  
+- Develop a functional web application using **ASP.NET Core Razor Pages**.  
+- Implement **CRUD operations** for volunteer management.  
+- Use **SQLite** as the project database, managed via **Entity Framework Core**.  
+- Build a **simple, responsive, and user-friendly interface** with **Bootstrap**.  
+- Demonstrate strong skills in **server-side web development**.
 
 ---
 
-## 🏗️ Tecnologias Utilizadas
+## 🧩 Key Features
+
+- ✅ Display of all registered volunteers.  
+- ➕ Add new volunteers.  
+- ✏️ Edit and update existing volunteer data.  
+- ❌ Delete volunteer records.  
+- 🔍 Filter and search by **location**.  
+- 🏥 Link volunteers to specific **hospitals or collection centers**.  
+
+---
+
+## 🏗️ Technologies Used
 
 - **ASP.NET Core 8.0 (Razor Pages)**  
 - **C#**  
@@ -41,9 +41,8 @@ O sistema foi construído utilizando **ASP.NET Core Razor Pages** e **Entity Fra
 
 ---
 
-## ⚙️ Instruções de Execução
+## ⚙️ How to Run the Project
 
-1. Clonar ou descarregar o projeto:  
+1. Clone or download the repository:  
    ```bash
    git clone https://github.com/FranciscoMonteiro23/BancoAlimentar-Voluntarios.git
-
